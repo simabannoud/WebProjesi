@@ -1,0 +1,97 @@
+<!-- Gaming Passion STARTS -->
+    <section class="content-section" id="gamePassion">
+      <div class="container">
+        <div class="row">
+          <div class="section-title">
+            <h1>Favorim takımları ve futbolcular Bazıları</h1>
+          </div>
+        </div>
+        <div class="row">
+          <!-- Item Start -->
+          <div class="content-item">
+            <div class="content-item-inner">
+              <img src="./images/neymar.jpg" alt="game" />
+              <div class="overlay">
+                
+              </div>
+            </div>
+          </div>
+          <!-- Item End -->
+          <!-- item Start -->
+          <div class="content-item">
+            <div class="content-item-inner">
+              <img src="./images/coman.jpg" alt="game" />
+              <div class="overlay">
+                
+              </div>
+            </div>
+          </div>
+          <!-- Item End -->
+          <!-- Item Start -->
+          <div class="content-item">
+            <div class="content-item-inner">
+              <img src="./images/issac.jpg" alt="game" />
+              <div class="overlay">
+               
+              </div>
+            </div>
+          </div>
+          <!-- Item End -->
+          <!-- Item Start -->
+          <div class="content-item">
+            <div class="content-item-inner">
+              <img src="./images/marco.jpg" alt="game" />
+              <div class="overlay">
+              
+              </div>
+            </div>
+          </div>
+          <div class="content-item">
+            <div class="content-item-inner">
+              <img src="./images/sakina.jpg" alt="game" />
+              <div class="overlay">
+              
+              </div>
+            </div>
+          </div>
+          <!-- Item End -->
+          <!-- Item Start -->
+          <div class="content-item">
+            <div class="content-item-inner">
+              <img src="./images/psg.jpg" alt="game" />
+              <div class="overlay">
+                
+              </div>
+            </div>
+          </div>
+          <!-- Item End -->
+          <!-- Item Start -->
+          <div class="content-item">
+            <div class="content-item-inner">
+              <img src="./images/Manchester.jpg" alt="game" />
+              <div class="overlay">
+               
+              </div>
+            </div>
+          </div>
+          <div class="content-item">
+            <div class="content-item-inner">
+              <img src="./images/bayern.jpg" alt="game" />
+              <div class="overlay">
+               
+              </div>
+            </div>
+          </div>
+          <div class="content-item">
+            <div class="content-item-inner">
+              <img src="./images/chelsea.jpg" alt="game" />
+              <div class="overlay">
+               
+              </div>
+            </div>
+          </div>
+          <!--Item End -->
+        </div>
+      </div>
+    </section>
+    <!-- Gaming Passion Ends -->
